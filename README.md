@@ -275,8 +275,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, collaboration opportunities, or web development inquiries:
 - **Author**: Roberto Narciso
-- **Email**: [Your contact email]
-- **GitHub**: [Your GitHub profile]
+- **Email**: rnarciso@gmail.com
+- **GitHub**: https://github.com/rnarciso
 
 ---
 
